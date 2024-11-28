@@ -1,6 +1,19 @@
 # 💫 About Me:
 <br>Aspiring Software Developer with a strong foundation in programming and web development. Skilled in Python, Java, C++, Go, and C#, with hands-on experience in web technologies like HTML, CSS, JavaScript, and PHP. Proficient in tools like Visual Studio Code, Eclipse, and Jupyter Notebook, with a passion for building impactful projects. Recent projects include a "Hospital Management System" using HTML, CSS, and JavaScript. Actively enhancing skills through workshops on Django, IoT, ReactJS, Machine Learning, and Android Development. Open to collaboration and contributing to open-source projects.
 
+## Education 🎓
+B.Voc in Software and App Development
+SDM College (Autonomous), Ujire (2021–2024)
+Average CGPA: 6.71 📊
+
+Pre-University Education
+SDM PU College, Ujire (2020–2021)
+Combination: BAES, Percentage: 65.83% 🎓
+
+Secondary School Certificate
+JEM High School, Kalasa, Chikmagalur (2018–2019)
+Percentage: 80.61% 🎒
+
 ## Skills 🛠️
 Programming Languages: Python, Java, C, C++, Go, C#
 Web Technologies: HTML, CSS, JavaScript, PHP 🌐
