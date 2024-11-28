@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chiranth D Jain</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Data analytics**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **HTML,CSS**
 
 - 📫 How to reach me **chiranthdjain24@gmail**
 
